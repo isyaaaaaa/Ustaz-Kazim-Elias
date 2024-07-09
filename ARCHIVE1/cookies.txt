@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.smobookstores.com	TRUE	/	FALSE	1999999999	_landing_page	%252Fproducts%252F-karya-bestari-tuhan-sedang-menguji-kita-edisi-kemaskini-best-seller-ustaz-kazim-elias
+www.smobookstores.com	TRUE	/	FALSE	1999999999	locale	en_US
+www.smobookstores.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	GA7Yu64zjg83y2DnYq4CkViHVChiC3lnx1d2Yir6
+www.smobookstores.com	TRUE	/	FALSE	1999999999	_easystore_z	Lojai4kA8dvdZvHrox47wKvUwaqALRVLMjNwbOcU
+apps.easystore.co	TRUE	/	FALSE	1999999999	laravel_session	Ns702Ht00m0FzmdrKti1vHnIn7MaW0HkA7HgXZQp
+apps.easystore.co	TRUE	/	FALSE	1999999999	_admin_host	admin.easystore.co
+apps.easystore.co	TRUE	/	FALSE	1999999999	Ns702Ht00m0FzmdrKti1vHnIn7MaW0HkA7HgXZQp	%7B%22data%22%3A%22a%3A4%3A%7Bs%3A6%3A%5C%22_token%5C%22%3Bs%3A40%3A%5C%22qek93AQ1H7hbZ4mRXit5c4hNOx2pa1kxxLKn5pFY%5C%22%3Bs%3A20%3A%5C%22shopee-malaysia-shop%5C%22%3Bs%3A18%3A%5C%22hisham3151.easy.co%5C%22%3Bs%3A9%3A%5C%22_previous%5C%22%3Ba%3A1%3A%7Bs%3A3%3A%5C%22url%5C%22%3Bs%3A82%3A%5C%22https%3A%5C%2F%5C%2Fapps.easystore.co%5C%2Fproduct-labels%5C%2Fproductlabelv2.js%3Fshop%3Dhisham3151.easy.co%5C%22%3B%7Ds%3A6%3A%5C%22_flash%5C%22%3Ba%3A2%3A%7Bs%3A3%3A%5C%22old%5C%22%3Ba%3A0%3A%7B%7Ds%3A3%3A%5C%22new%5C%22%3Ba%3A0%3A%7B%7D%7D%7D%22%2C%22expires%22%3A1720471580%7D
+apps.easystore.co	TRUE	/	FALSE	1999999999	samesite	none
+
