@@ -1,0 +1,1 @@
+.sassize{--breakpoint:desktop}@media all and (max-width:991px){.sassize{--breakpoint:tablet}}@media all and (max-width:767px){.sassize{--breakpoint:mobile}}

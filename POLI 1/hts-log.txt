@@ -1,0 +1,35 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 08 Jul 2024 15:39:26 at https://www.mstar.com.my/lokal/semasa/2022/11/06/ustaz-kazim-tarik-diri-kerana-tak-mahu-lawan-abang-sendiri-akui-tak-terlibat-dengan-mana-mana-parti-politik +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.mstar.com.my/lokal/semasa/2022/11/06/ustaz-kazim-tarik-diri-kerana-tak-mahu-lawan-abang-sendiri-akui-tak-terlibat-dengan-mana-mana-parti-politik -O1 "C:\Dato' Ustaz kazim elias\duke" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:40:41	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.mstar.com.my/lokal/semasa/2022/11/06/ustaz-kazim-tarik-diri-kerana-tak-mahu-lawan-abang-sendiri-akui-tak-terlibat-dengan-mana-mana-parti-politik)
+15:40:41	Warning: 	Retry after error 500 (Internal Server Error) at link www.goemotify.com/api/2.0/reactions.js?url= (from https://www.mstar.com.my/lokal/semasa/2022/11/06/ustaz-kazim-tarik-diri-kerana-tak-mahu-lawan-abang-sendiri-akui-tak-terlibat-dengan-mana-mana-parti-politik)
+15:40:44	Warning: 	Retry after error 500 (Internal Server Error) at link www.goemotify.com/api/2.0/comments_widget.js?url= (from https://www.mstar.com.my/lokal/semasa/2022/11/06/ustaz-kazim-tarik-diri-kerana-tak-mahu-lawan-abang-sendiri-akui-tak-terlibat-dengan-mana-mana-parti-politik)
+15:40:54	Error: 	"Not Found" (404) at link https://www.mstar.com.my/lokal/semasa/2022/11/06/images/mstar-logo-small.png (from https://www.mstar.com.my/lokal/semasa/2022/11/06/ustaz-kazim-tarik-diri-kerana-tak-mahu-lawan-abang-sendiri-akui-tak-terlibat-dengan-mana-mana-parti-politik)
+15:40:54	Warning: 	Moved Permanently for https://www.mstar.com.my/lokal/semasa/2022/11/06/OPR/
+15:40:54	Warning: 	File has moved from https://www.mstar.com.my/lokal/semasa/2022/11/06/OPR/ to https://www.mstar.com.my/lokal/semasa/2022/11/06/OPR
+15:40:56	Warning: 	Moved Permanently for https://www.mstar.com.my/lokal/semasa/2022/11/06/chrome-extension://
+15:40:56	Warning: 	File has moved from https://www.mstar.com.my/lokal/semasa/2022/11/06/chrome-extension:// to https://www.mstar.com.my/lokal/semasa/2022/11/06/chrome-extension:
+15:40:56	Warning: 	Moved Permanently for https://www.mstar.com.my/lokal/semasa/2022/11/06/$1/
+15:40:56	Warning: 	File has moved from https://www.mstar.com.my/lokal/semasa/2022/11/06/$1/ to https://www.mstar.com.my/lokal/semasa/2022/11/06/$1
+15:40:56	Warning: 	Moved Permanently for https://www.mstar.com.my/lokal/semasa/2022/11/06/embed/
+15:40:56	Warning: 	File has moved from https://www.mstar.com.my/lokal/semasa/2022/11/06/embed/ to https://www.mstar.com.my/lokal/semasa/2022/11/06/embed
+15:40:57	Warning: 	Moved Permanently for https://www.mstar.com.my/lokal/semasa/2022/11/06/captioned/
+15:40:57	Warning: 	File has moved from https://www.mstar.com.my/lokal/semasa/2022/11/06/captioned/ to https://www.mstar.com.my/lokal/semasa/2022/11/06/captioned
+15:40:58	Warning: 	Retry after error 500 () at link www.goemotify.com/api/2.0/reactions.js?url= (from https://www.mstar.com.my/lokal/semasa/2022/11/06/ustaz-kazim-tarik-diri-kerana-tak-mahu-lawan-abang-sendiri-akui-tak-terlibat-dengan-mana-mana-parti-politik)
+15:40:58	Warning: 	Retry after error 500 (Internal Server Error) at link www.goemotify.com/api/2.0/comments_widget.js?url= (from https://www.mstar.com.my/lokal/semasa/2022/11/06/ustaz-kazim-tarik-diri-kerana-tak-mahu-lawan-abang-sendiri-akui-tak-terlibat-dengan-mana-mana-parti-politik)
+15:41:01	Error: 	"Not Found" (404) at link https://www.mstar.com.my/lokal/semasa/2022/11/06/d (from https://widgets.outbrain.com/outbrain.js)
+15:41:01	Error: 	"Error when decompressing" (-1) at link https://www.mstar.com.my/lokal/semasa/2022/11/06/OPR (from https://www.mstar.com.my/lokal/semasa/2022/11/06/OPR/)
+15:41:01	Error: 	"Error when decompressing" (-1) at link https://www.mstar.com.my/lokal/semasa/2022/11/06/chrome-extension: (from https://www.mstar.com.my/lokal/semasa/2022/11/06/chrome-extension://)
+15:41:01	Error: 	"Not Found" (404) at link https://www.mstar.com.my/lokal/semasa/2022/11/06/$1 (from https://www.mstar.com.my/lokal/semasa/2022/11/06/$1/)
+15:41:01	Error: 	"Error when decompressing" (-1) at link https://www.mstar.com.my/lokal/semasa/2022/11/06/embed (from https://www.mstar.com.my/lokal/semasa/2022/11/06/embed/)
+15:41:01	Error: 	"Not Found" (404) at link https://www.mstar.com.my/lokal/semasa/2022/11/06/captioned (from https://www.mstar.com.my/lokal/semasa/2022/11/06/captioned/)
+15:41:01	Error: 	"" (500) after 2 retries at link www.goemotify.com/api/2.0/reactions.js?url= (from https://www.mstar.com.my/lokal/semasa/2022/11/06/ustaz-kazim-tarik-diri-kerana-tak-mahu-lawan-abang-sendiri-akui-tak-terlibat-dengan-mana-mana-parti-politik)
+15:41:01	Error: 	"Internal Server Error" (500) after 2 retries at link www.goemotify.com/api/2.0/comments_widget.js?url= (from https://www.mstar.com.my/lokal/semasa/2022/11/06/ustaz-kazim-tarik-diri-kerana-tak-mahu-lawan-abang-sendiri-akui-tak-terlibat-dengan-mana-mana-parti-politik)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 35 seconds : 93 links scanned, 72 files written (2857687 bytes overall) [1610630 bytes received at 16954 bytes/sec], 1809391 bytes transferred using HTTP compression in 49 files, ratio 26%, 2.1 requests per connection
+(10 errors, 14 warnings, 0 messages)

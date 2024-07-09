@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+api.vodus.com	TRUE	/	FALSE	1999999999	ARRAffinity	fb26a41bcf2225d2ea1020c1389336df702f4175efd339205e7056da9a835868
+api.vodus.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	fb26a41bcf2225d2ea1020c1389336df702f4175efd339205e7056da9a835868
+api.vodus.com	TRUE	/	FALSE	1999999999	SameSite	None
+
