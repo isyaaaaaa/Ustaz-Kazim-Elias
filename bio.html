@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biography of Ustaz Kazim Elias</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .header {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            position: relative;
+        }
+        .header img {
+            width: 100%;
+            height: auto;
+        }
+        .nav {
+            background: #444;
+            overflow: hidden;
+        }
+        .nav a {
+            float: left;
+            display: block;
+            color: #fff;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .nav .right {
+            float: right;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            background: #fff;
+            padding: 2em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+		.flip-cards-container {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+        .flip-card {
+            background-color: transparent;
+            width: 300px;
+            height: 200px;
+            border: 1px solid #f1f1f1;
+            perspective: 1000px; /* Remove this if you don't want the 3D effect */
+        }
+
+        /* This container is needed to position the front and back side */
+        .flip-card-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            transition: transform 0.8s;
+            transform-style: preserve-3d;
+        }
+
+        /* Do an horizontal flip when you move the mouse over the flip box container */
+        .flip-card:hover .flip-card-inner {
+            transform: rotateY(180deg);
+        }
+
+        /* Position the front and back side */
+        .flip-card-front, .flip-card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden; /* Safari */
+            backface-visibility: hidden;
+        }
+
+        /* Style the front side (fallback if image is missing) */
+        .flip-card-front {
+            background-color: #bbb;
+            color: black;
+        }
+
+        /* Style the back side */
+        .flip-card-back {
+            background-color: #cc9966;
+            color: white;
+            transform: rotateY(180deg);
+        }
+        .footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="image/banner1.jpg" alt="Banner Image">
+    </div>
+
+    <div class="nav">
+        <a href="homepage.html">Home</a>
+        <a href="bio.html">Biography</a>
+        <a href="news.html">News</a>
+		<a href="politic.html">Political</a>
+        <a href="archive.html">Archive</a>
+        <a href="about.html" class="right">About Us</a>
+    </div>
+
+    <div class="container" id="biography">
+        <center><h2>Biography</h2></center>
+		<p align="justify">Ustaz Kazim Elias, full name Mohammad Kazim bin Elias, is a well-known Malaysian Islamic preacher, speaker, and educator. 
+		He is widely recognized for his engaging lectures and deep knowledge of Islamic teachings, which he shares through various 
+		media platforms, including television, radio, and social media.</p>
+
+		<p align="justify">Born on November 28, 1972, in Kampung Paya, Perak, Ustaz Kazim Elias has devoted his life to spreading Islamic knowledge 
+		and promoting moral values. He received his early education at Sekolah Kebangsaan Kampung Paya and later pursued his Islamic 
+		studies at several renowned institutions, including Maahad Tahfiz Al-Quran Wal Qiraat in Kuala Kangsar and Maahad Tahfiz 
+		Al-Quran in Kelantan.</p>
+		
+		<p>For more information, please visit any web archiving below :</p>
+		
+	<div class="flip-cards-container">
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="image/ustaz3.jpg" alt="ustaz" style="width:290px;height:200px;">
+                    </div>
+                    <div class="flip-card-back">
+                        <h2>Description</h2>
+						<p><a href="https://ms.wikipedia.org/wiki/Mohammad_Kazim_Elias" target="_blank">Mohammad Kazim Elias<a></p>
+                        <p>HTTrack : <a href="DUKE/BIODATADUKE1/index.html" target=_blank>View Here</a></p>
+						<p>Connifer : <a href="https://conifer.rhizome.org/nuriekasyamina/dato-ustaz-kazim-elias/20240525194325/https://ms.wikipedia.org/wiki/Mohammad_Kazim_Elias" target="_blank">Click Here</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="image/ustaz4.jpg" alt="ustaz" style="width:290px;height:200px;">
+                    </div>
+                    <div class="flip-card-back">
+                        <h2>Description</h2>
+						<p><a href="" target="_blank">Biodata Ustaz Kazim Elias<a></p>
+                        <p>HTTrack : <a href="DUKE/BIODATADUKE2/index.html" target=_blank>View Here</a></p>
+						<p>Connifer : <a href="https://conifer.rhizome.org/nuriekasyamina/dato-ustaz-kazim-elias/20240708063706/https://www.azhan.co/biodata-ustaz-kazim-elias-penceramah-bebas-popular-malaysia/" target="_blank">Click Here</a></p>
+                    </div>
+                </div>
+            </div>
+			<div class="flip-card">
+                <div class="flip-card-inner">
+                    <div class="flip-card-front">
+                        <img src="image/ustaz5.jpg" alt="ustaz" style="width:290px;height:200px;">
+                    </div>
+                    <div class="flip-card-back">
+                        <h2>Description</h2>
+						<p><a href="" target="_blank">Latar belakang Ustaz Kazim Elias<a></p>
+                        <p>HTTrack : <a href="DUKE/BIODATADUKE3/index.html" target=_blank>View Here</a></p>
+						<p>Connifer : <a href="https://conifer.rhizome.org/nuriekasyamina/dato-ustaz-kazim-elias/20240708183658/https://malay.wiki/content/Mohammad%20Kazim%20Elias/Latar%20belakang.html" target="_blank">Click Here</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+	
+	</div>
+	
+	
+
+    <div class="footer">
+        &copy; 2024 Nurul Farisah | Nur Ieka Syamina. All Rights Reserved. <br>
+		Best viewed: Chrome 114.0 & 1366x768 <br>
+		Last update: July 8, 2024 <br>
+		<em>Disclaimer: This website is not the official website for Ustaz Kazim Elias.</em> 
+    </div>
+</body>
+</html>

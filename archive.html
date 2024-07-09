@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archive</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .header {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            position: relative;
+        }
+        .header img {
+            width: 100%;
+            height: auto;
+        }
+        .nav {
+            background: #444;
+            overflow: hidden;
+        }
+        .nav a {
+            float: left;
+            display: block;
+            color: #fff;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .nav .right {
+            float: right;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            background: #fff;
+            padding: 2em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        h2 {
+			background-color: #990000;
+			color: white;
+		}
+		
+        p {
+            line-height: 1.6;
+			text-align: justify;
+        }
+		
+		table {
+			width: 95%;
+			border-collapse: collapse;
+			padding:70px;
+			margin-left:auto;
+			margin-right:auto;
+		}
+		
+		th {
+		background-color: #990000;
+		color: white;
+		}
+
+		td, th {
+			border: 2px solid black;
+			text-align: center
+			padding: 17px;
+		}
+
+		th, td {
+			padding: 10px;
+			text-align: center;
+		}
+
+		th, td {
+			width: 12.5%; /* 70% / 8 columns */
+		}
+
+        .flip-cards-container {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        .flip-card {
+            background-color: transparent;
+            width: 300px;
+            height: 200px;
+            border: 1px solid #f1f1f1;
+            perspective: 1000px; /* Remove this if you don't want the 3D effect */
+            margin: 10px;
+        }
+
+        /* This container is needed to position the front and back side */
+        .flip-card-inner {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            transition: transform 0.8s;
+            transform-style: preserve-3d;
+        }
+
+        /* Do an horizontal flip when you move the mouse over the flip box container */
+        .flip-card:hover .flip-card-inner {
+            transform: rotateY(180deg);
+        }
+
+        /* Position the front and back side */
+        .flip-card-front, .flip-card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            -webkit-backface-visibility: hidden; /* Safari */
+            backface-visibility: hidden;
+        }
+
+        /* Style the front side (fallback if image is missing) */
+        .flip-card-front {
+            background-color: #bbb;
+            color: black;
+        }
+
+        /* Style the back side */
+        .flip-card-back {
+            background-color: dodgerblue;
+            color: white;
+            transform: rotateY(180deg);
+        }
+
+        .footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="image/banner4.jpg" alt="Banner Image">
+    </div>
+
+    <div class="nav">
+        <a href="homepage.html">Home</a>
+        <a href="bio.html">Biography</a>
+        <a href="news.html">News</a>
+		<a href="politic.html">Political</a>
+        <a href="archive.html">Archive</a>
+        <a href="about.html" class="right">About Us</a>
+    </div>
+
+    <div class="container" id="Archive">
+        <h2><center>Archive</center></h2>
+		<p>Ustaz Kazim's unique approach to preaching, which combines humor with insightful religious teachings, 
+		has garnered him a large following. He is the founder and principal of Al-Barakah Education Centre in 
+		Manjoi, Perak, where he continues to teach and inspire the younger generation. His efforts in promoting 
+		Islamic education and values have made him a respected figure in the Malaysian Muslim community.</p>
+		
+		<table>
+			<tr>
+				<th>Collection</th>
+				<th>Link URL</th>
+				<th>HTTrack</th>
+				<th>Conifer</th>
+			</tr>
+			<tr>
+				<td>Archive 1</td>
+				<td><a href="https://www.smobookstores.com/products/-karya-bestari-tuhan-sedang-menguji-kita-edisi-kemaskini-best-seller-ustaz-kazim-elias">[KARYA BESTARI] - TUHAN SEDANG MENGUJI KITA (EDISI KEMASKINI) - BEST SELLER! - USTAZ KAZIM ELIAS</a></td>
+				<td><a href="DUKE/ARCHIVE1/index.html" target=_blank>View Here</a></td>
+				<td><a href="https://conifer.rhizome.org/nuriekasyamina/dato-ustaz-kazim-elias/20240708184737/https://www.smobookstores.com/products/-karya-bestari-tuhan-sedang-menguji-kita-edisi-kemaskini-best-seller-ustaz-kazim-elias" target="_blank">Click Here</a></td>
+			</tr>
+			<tr>
+				<td>Archive 2</td>
+				<td><a href="https://h5.lazada.com.my/products/karya-bestari-tak-faham-sudah-by-datuk-ustaz-kazim-elias-2023-buku-motivasi-agama-buku-ustaz-kazim-elias-i3466145927.html">Karya Bestari - Tak Faham... Sudah! by Datuk Ustaz Kazim Elias (2023) | buku motivasi agama | buku ustaz kazim elias</a></td>
+				<td><a href="DUKE/ARCHIVE2/index.html" target=_blank>View Here</a></td>
+				<td><a href="https://conifer.rhizome.org/nuriekasyamina/dato-ustaz-kazim-elias/20240708185811/https://h5.lazada.com.my/products/karya-bestari-tak-faham-sudah-by-datuk-ustaz-kazim-elias-2023-buku-motivasi-agama-buku-ustaz-kazim-elias-i3466145927.html" target="_blank">Click Here</a></td>
+			</tr>
+			<tr>
+				<td>Archive 3</td>
+				<td><a href="https://www.mynewshub.tv/2016/04/rosyam-terbit-8-buku-ustaz-kazim-elias/">Rosyam Nor Terbit 8 Buku Karya Ustaz Kazim Elias</a></td>
+				<td><a href="DUKE/ARCHIVE3/index.html" target=_blank>View Here</a></td>
+				<td><a href="https://conifer.rhizome.org/nuriekasyamina/dato-ustaz-kazim-elias/20240708190630/https://www.mynewshub.tv/2016/04/rosyam-terbit-8-buku-ustaz-kazim-elias/#google_vignette" target="_blank">Click Here</a></td>
+			</tr>
+		</table>
+    </div>
+
+    <div class="footer">
+        &copy; 2024 Nurul Farisah | Nur Ieka Syamina. All Rights Reserved. <br>
+        Best viewed: Chrome 114.0 & 1366x768 <br>
+        Last update: July 8, 2024 <br>
+        <em>Disclaimer: This website is not the official website for Ustaz Kazim Elias.</em>
+    </div>
+</body>
+</html>

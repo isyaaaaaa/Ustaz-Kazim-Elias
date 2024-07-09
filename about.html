@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .header {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            position: relative;
+        }
+        .header img {
+            width: 100%;
+            height: auto;
+        }
+        .nav {
+            background: #444;
+            overflow: hidden;
+        }
+        .nav a {
+            float: left;
+            display: block;
+            color: #fff;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        .nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .nav .right {
+            float: right;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            background: #fff;
+            padding: 2em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+
+        .cards-container {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .card {
+            box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+            max-width: 300px;
+            margin: 10px;
+            text-align: center;
+            background-color: white;
+            padding: 10px;
+        }
+
+        .title {
+            color: grey;
+            font-size: 18px;
+        }
+
+        button {
+            border: none;
+            outline: 0;
+            display: inline-block;
+            padding: 8px;
+            color: white;
+            background-color: #000;
+            text-align: center;
+            cursor: pointer;
+            width: 100%;
+            font-size: 18px;
+        }
+
+        a {
+            text-decoration: none;
+            font-size: 22px;
+            color: black;
+        }
+
+        button:hover, a:hover {
+            opacity: 0.7;
+        }
+
+        .footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="image/banner5.jpg" alt="Banner Image">
+    </div>
+
+    <div class="nav">
+        <a href="homepage.html">Home</a>
+        <a href="bio.html">Biography</a>
+        <a href="news.html">News</a>
+        <a href="archive.html">Archive</a>
+        <a href="about.html" class="right">About Us</a>
+    </div>
+
+    <div class="container" id="about-us">
+        <center>
+            <h1 style="border: 2px solid Tomato;">Our Members</h1>
+        </center>
+        <div class="cards-container">
+            <div class="card">
+                <img src="image/isya.jpeg" alt="Isya" style="width:70%">
+                <h2>Nurul Farisah binti Abd Shukor</h2>
+                <p class="title">Information Content Management</p>
+                <p>Universiti Teknologi Mara (UiTM)</p>
+                <a href="https://www.instagram.com/farisahhh._/" target="_blank">
+                    <img src="image/ig.jpg" width="15%">
+                </a>
+                <a href="https://twitter.com/nrlfarisah" target="_blank">
+                    <img src="image/twitter.png" width="12%">
+                </a>
+                <a href="https://www.facebook.com/nurul.farisah.716/" target="_blank">
+                    <img src="image/fb.jpg" width="15%">
+                </a>
+                <p><button>Contact</button></p>
+            </div>
+
+            <div class="card">
+                <img src="image/ieka.jpeg" alt="Ieka" style="width:80%">
+                <h2>Nur Ieka Syamina binti Mohd Kahar</h2>
+                <p class="title">Information Content Management</p>
+                <p>Universiti Teknologi Mara (UiTM)</p>
+                <a href="#">
+                    <img src="image/ig.jpg" width="15%">
+                </a>
+                <a href="#">
+                    <img src="image/twitter.png" width="12%">
+                </a>
+                <a href="#">
+                    <img src="image/fb.jpg" width="15%">
+                </a>
+                <p><button>Contact</button></p>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        &copy; 2024 Nurul Farisah | Nur Ieka Syamina. All Rights Reserved. <br>
+        Best viewed: Chrome 114.0 & 1366x768 <br>
+        Last update: July 5, 2024 <br>
+        <em>Disclaimer: This website is not the official website for Ustaz Kazim Elias.</em>
+    </div>
+</body>
+</html>
