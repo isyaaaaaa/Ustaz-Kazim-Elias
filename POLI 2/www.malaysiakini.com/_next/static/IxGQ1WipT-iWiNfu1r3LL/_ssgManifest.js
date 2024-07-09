@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fembed\u002Fpadang-serai-tioman-2022\u002F[lang]","\u002Fembed\u002Fpelangai-2023\u002F[lang]","\u002Fembed\u002Fpulai-simpang-jeram-2023\u002F[lang]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
