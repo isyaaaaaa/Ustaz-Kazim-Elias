@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+lazada.com.my	TRUE	/	FALSE	1999999999	hng	MY|en-MY|MYR|458
+lazada.com.my	TRUE	/	FALSE	1999999999	hng.sig	cLZ14_ZixioeDzk3FYgOHWtqfULyySre3d96Ouq-H6k
+h5.lazada.com.my	TRUE	/	FALSE	1999999999	EGG_SESS	S_Gs1wHo9OvRHCMp98md7FI9Yc0Wh7CkUIY7xoylU7Kvi1-P2-RCsjcAfqQ-ljr-9wy9kOiwwZwYNu3yfk0Ad4Hrn4iRwRNmRfvmqGYVxE1fwMa0VPPNdkWk7LAp3Zy61N-qb1goj3fQPdOxmPWeoNEuYhiHmKzpt52VDHxzZwM=
+

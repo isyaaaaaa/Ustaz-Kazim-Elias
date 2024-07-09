@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 09 Jul 2024 02:54:13 at https://h5.lazada.com.my/products/karya-bestari-tak-faham-sudah-by-datuk-ustaz-kazim-elias-2023-buku-motivasi-agama-buku-ustaz-kazim-elias-i3466145927.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://h5.lazada.com.my/products/karya-bestari-tak-faham-sudah-by-datuk-ustaz-kazim-elias-2023-buku-motivasi-agama-buku-ustaz-kazim-elias-i3466145927.html -O1 "C:\Dato' Ustaz kazim elias\archive" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+02:55:53	Error: 	"Not Found" (404) at link https://h5.lazada.com.my/products/android-app://com.lazada.android/lazada/my/d/?p=3466145927_MY&utm_campaign=https%3A%2F%2Fh5.lazada.com.my%2Fproducts%2Fkarya-bestari-tak-faham-sudah-by-datuk-ustaz-kazim-elias-2023-buku-motivasi-agama-buku-ustaz-kazim-elias-i3466145927-s18904253764.html&utm_source=google_app_indexing&utm_from=pdp (from https://h5.lazada.com.my/products/karya-bestari-tak-faham-sudah-by-datuk-ustaz-kazim-elias-2023-buku-motivasi-agama-buku-ustaz-kazim-elias-i3466145927.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 45 seconds : 88 links scanned, 84 files written (9213256 bytes overall) [3577606 bytes received at 34072 bytes/sec], 7670580 bytes transferred using HTTP compression in 40 files, ratio 24%, 2.5 requests per connection
+(1 errors, 0 warnings, 0 messages)
