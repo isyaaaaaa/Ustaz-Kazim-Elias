@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 09 Jul 2024 03:04:48 at https://www.mynewshub.tv/2016/04/rosyam-terbit-8-buku-ustaz-kazim-elias/#google_vignette +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.mynewshub.tv/2016/04/rosyam-terbit-8-buku-ustaz-kazim-elias/#google_vignette -O1 "C:\Dato' Ustaz kazim elias\BUKU" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:05:11	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+03:05:11	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/google_vignette (from primary/primary)
+03:06:54	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/google_vignette (from primary/primary)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/clear-sky-d.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/clear-sky-n.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/few-clouds-d.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/few-clouds-n.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/scattered-clouds-d.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/scattered-clouds-n.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/broken-clouds-d.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/broken-clouds-n.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/shower-rain-d.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/shower-rain-n.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/rain-d.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/rain-n.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:56	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/thunderstorm.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:57	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/snow-d.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:57	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/snow-n.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:57	Error: 	"Not Found" (404) at link https://www.mynewshub.tv/wp-content/plugins/td-standard-pack/Newspaper/assets/css/images/sprite/weather/mist.png (from https://www.mynewshub.tv/wp-content/litespeed/css/aed0cfc2a93ca74895bde393c2220d11.css?ver=3d32b)
+03:06:57	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/google_vignette (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 9 seconds : 80 links scanned, 59 files written (2756821 bytes overall) [2917080 bytes received at 22613 bytes/sec], 8829238 bytes transferred using HTTP compression in 63 files, ratio 26%, 15.2 requests per connection
+(18 errors, 2 warnings, 0 messages)
