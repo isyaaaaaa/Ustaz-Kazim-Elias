@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 04 Jul 2024 14:42:33 at https://www.hmetro.com.my/rap/2024/05/1093134/saya-disihir-berpunca-daripada-percakapan-sendiri-ustaz-kazim +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.hmetro.com.my/rap/2024/05/1093134/saya-disihir-berpunca-daripada-percakapan-sendiri-ustaz-kazim -O1 "C:\Dato' Ustaz kazim elias\duke" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:44:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.hmetro.com.my/rap/2024/05/1093134/https//www.googletagservices.com (from https://www.hmetro.com.my/rap/2024/05/1093134/saya-disihir-berpunca-daripada-percakapan-sendiri-ustaz-kazim)
+14:44:00	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.hmetro.com.my/rap/2024/05/1093134/https//www.googletagmanager.com (from https://www.hmetro.com.my/rap/2024/05/1093134/saya-disihir-berpunca-daripada-percakapan-sendiri-ustaz-kazim)
+14:44:10	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://www.hmetro.com.my/rap/2024/05/1093134/saya-disihir-berpunca-daripada-percakapan-sendiri-ustaz-kazim)
+14:44:18	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.hmetro.com.my/rap/2024/05/1093134/https//www.googletagservices.com (from https://www.hmetro.com.my/rap/2024/05/1093134/saya-disihir-berpunca-daripada-percakapan-sendiri-ustaz-kazim)
+14:44:18	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.hmetro.com.my/rap/2024/05/1093134/https//www.googletagmanager.com (from https://www.hmetro.com.my/rap/2024/05/1093134/saya-disihir-berpunca-daripada-percakapan-sendiri-ustaz-kazim)
+14:44:19	Warning: 	Found for https://www.hmetro.com.my/rap/2024/05/1093134/schema.org/
+14:44:19	Warning: 	File has moved from https://www.hmetro.com.my/rap/2024/05/1093134/schema.org/ to https://www.hmetro.com.my/rap/2024/05/1093134/saya-disihir-berpunca-daripada-percakapan-sendiri-ustaz-kazim
+14:44:19	Error: 	"Not Found" (404) at link https://www.hmetro.com.my/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+14:44:19	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.hmetro.com.my/rap/2024/05/1093134/https//www.googletagservices.com (from https://www.hmetro.com.my/rap/2024/05/1093134/saya-disihir-berpunca-daripada-percakapan-sendiri-ustaz-kazim)
+14:44:19	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.hmetro.com.my/rap/2024/05/1093134/https//www.googletagmanager.com (from https://www.hmetro.com.my/rap/2024/05/1093134/saya-disihir-berpunca-daripada-percakapan-sendiri-ustaz-kazim)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 46 seconds : 46 links scanned, 35 files written (4802730 bytes overall) [2895757 bytes received at 27318 bytes/sec], 3604165 bytes transferred using HTTP compression in 13 files, ratio 39%, 2.2 requests per connection
+(4 errors, 6 warnings, 0 messages)

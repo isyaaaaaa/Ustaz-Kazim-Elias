@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hmetro.com.my	TRUE	/	FALSE	1999999999	__cf_bm	ZERy6.irrOHYjfEKg581Bfp8_dRicS1YijKgvwrngBM-1720075365-1.0.1.1-d454HH2buGyXNSOYZRQk0EqUJtqknO.qbB0DRytYbAdKp_ZsDbSpsOmNexzPfvBvjiI1J2ts3XHVy1tzIXFowA
+www.hmetro.com.my	TRUE	/	FALSE	1999999999	SameSite	None
+
